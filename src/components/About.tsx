@@ -30,7 +30,7 @@ const About = () => {
         <div className='grid lg:grid-cols-[1.2fr,2.8fr] gap-16'>
           <Image width={400} height={400} className='' src='/profile.jpg' alt='Affan Khalid'/>
           <div className='text-[#d3d3d3] flex flex-col justify-between'>
-          <div className='text-xl 2xl:text-2xl '>I'm Affan Khalid, a web developer passionate about creating responsive websites with Next.js and Tailwind CSS. With experience in HTML, CSS, JavaScript, React, and Express, I build high-performance web apps. I'm also exploring generative AI and aiming to contribute to society through technology, especially in Pakistan.</div>
+          <div className='text-xl 2xl:text-2xl '>I&apos;m Affan Khalid, a web developer passionate about creating responsive websites with Next.js and Tailwind CSS. With experience in HTML, CSS, JavaScript, React, and Express, I build high-performance web apps. I'm also exploring generative AI and aiming to contribute to society through technology, especially in Pakistan.</div>
           <div className='flex sm:flex-row gap-2 flex-col justify-between mt-12'>
             <div className='flex flex-col items-center'>
               <div className=' text-[40px] 2xl:text-5xl font-bold'>8+</div>

@@ -37,8 +37,6 @@ const BlogPages = async ({params}:{params:{slug:string}}) => {
                 <PortableText
                 // Pass in block content straight from Sanity.io
                 content={blog.content}
-                projectId = "7qnpkdw9"
-                dataset = "production"
                 // Optionally override marks, decorators, blocks, etc. in a flat
                 // structure without doing any gymnastics
                 serializers={{

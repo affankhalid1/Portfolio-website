@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://affankhalid.vercel.app
+
+# Sitemaps
+Sitemap: https://affankhalid.vercel.app/sitemap.xml

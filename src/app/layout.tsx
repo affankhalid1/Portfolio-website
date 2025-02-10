@@ -37,7 +37,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Affan Khalid | Web Developer & AI Enthusiast",
   description: "Affan Khalid - A passionate web developer and AI enthusiast. Explore projects, blogs, and services in web development, generative AI, and more.",
-  keywords: "affankhalid, affan khalid blog, affan khalid website, affan khalid portfolio, web developer, AI, Next.js, Tailwind CSS, full-stack development, JavaScript, React",
+  keywords: "affan khalid,affankhalid, affan khalid blog, affan khalid website, affan khalid portfolio, web developer, AI, Next.js, Tailwind CSS, full-stack development, JavaScript, React",
   openGraph: {
     title: "Affan Khalid | Web Developer & AI Enthusiast",
     description: "Explore the official website of Affan Khalid, a web developer and AI enthusiast.",

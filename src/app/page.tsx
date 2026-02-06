@@ -1,4 +1,3 @@
-"useclient"
 import Image from "next/image";
 import Link from "next/link";
 import Home1 from "../components/Home";
